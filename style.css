@@ -1,16 +1,11 @@
 
-@font-face{
-    font-family: "OutaiKaiStd";
-    src: url("./A-OTF-OutaiKaiStd-Light.otf");
-}
-
 
 
 
 body{
     line-height: 1.5;
     font-size: 12px;
-    font-family: "OutaiKaiStd","微软雅黑";
+    font-family: "source-han-sans-simplified-c";
     background: #fff;
     padding: 0;
     margin: 0;
