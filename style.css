@@ -86,6 +86,12 @@ section img:hover{
 section p{
     text-align: center;
 }
+section p span a{
+    transition: 460ms;
+}
+section p span a:hover{
+    color: green;
+}
 section p .wechat{
     width: 90px;
 }
