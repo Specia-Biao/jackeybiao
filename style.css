@@ -1,0 +1,35 @@
+
+@font-face{
+    font-family: "OutaiKaiStd";
+    src: url("./A-OTF-OutaiKaiStd-Light");
+}
+
+
+
+
+body{
+    line-height: 1.5;
+    font-size: 12px;
+    font-family: "OutaiKaiStd","微软雅黑";
+    background: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+body{
+    background: url("./body_bg.jpg") bottom right;
+}
+
+
+
+
+
+
+
+
+
+
+
