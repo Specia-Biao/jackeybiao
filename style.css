@@ -1,4 +1,13 @@
 
+
+@font-face{
+    font-family: "Monotype Corsiva";
+    src:url("./fonts/Monotype Corsiva.ttf");
+}
+
+
+
+
 ul,li{
     padding: 0;
     margin: 0;
