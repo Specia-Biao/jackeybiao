@@ -2,7 +2,7 @@
 
 @font-face{
     font-family: "Monotype Corsiva";
-    src:url("./fonts/Monotype Corsiva.ttf");
+    src:local("Monotype Corsiva"),url("./fonts/Monotype Corsiva.ttf");
 }
 
 
